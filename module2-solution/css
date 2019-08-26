@@ -10,3 +10,15 @@
     .header {background: green;}
     border: 1px solid black;
 }
+h1 { 
+    text-align: center;
+}
+section, p {
+    background-color: cyan;
+}
+section {
+    text-align: right;       
+}
+.header, p {
+    display: inline-block;
+}
